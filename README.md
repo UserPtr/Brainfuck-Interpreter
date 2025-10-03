@@ -1,4 +1,4 @@
-# Interpreter-Brainfuck
+# Brainfuck-Interpreter
 
 This is a fairly simple Brainfuck interpreter.
 
